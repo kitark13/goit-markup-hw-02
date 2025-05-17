@@ -80,7 +80,7 @@ ul {
   line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
-  color: white;
+  color: #ffffff;
 }
 
 .button-hero {
@@ -92,7 +92,7 @@ ul {
   /* line-height: 24px; */
   line-height: 1.5;
   letter-spacing: 0.04em;
-  color: white;
+  color: #ffffff;
 }
 
 .button-hero:hover,
@@ -139,7 +139,7 @@ ul {
 }
 
 .team-list {
-  background-color: white;
+  background-color: #ffffff;
 }
 
 .team-name {
@@ -180,7 +180,7 @@ ul {
 }
 
 .portfolio-item {
-  background-color: white;
+  background-color: #ffffff;
 }
 
 .portfolio-item-name {
